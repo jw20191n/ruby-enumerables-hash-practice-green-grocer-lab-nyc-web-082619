@@ -45,7 +45,8 @@ end
 
 
 def apply_clearance(cart)
-  if cart[]
+cart.each do
+    
 end
 
 def checkout(cart, coupons)
