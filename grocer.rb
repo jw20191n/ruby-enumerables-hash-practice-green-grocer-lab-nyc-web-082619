@@ -65,5 +65,6 @@ def checkout(cart, coupons)
     total += info[:price] * info[:count]
   end
   
+  if total > 100
   total
 end
