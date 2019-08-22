@@ -56,5 +56,6 @@ end
 
 
 def checkout(cart, coupons)
-  # code here
+  total = 0
+  
 end
